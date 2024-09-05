@@ -1,4 +1,5 @@
 **Rock Paper Scissors**
+
 A C++ program that implements the classic game of rock, paper, or scissors. The game gets an input from the player to choose their move and compares it to a randomly generated move by the computer.
 
 Features:
