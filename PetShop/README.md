@@ -1,4 +1,4 @@
-**PetShop**
+**Pet Shop**
 
 A C++ program demonstrating object-oriented design principles through a pet shop management system. The base class pet is used to define the derived classes cat and dog which have unique implementations of the pet class base methods.
 
