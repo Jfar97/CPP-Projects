@@ -7,7 +7,7 @@ Features:
 - Node-based navigation and game logic
 - User input validation
 
-Running the Project
+Running the Project:
 1. Download the project files from GitHub
 2. Navigate to the project directory
 3. Compile using desired C++ compiler such as g++
