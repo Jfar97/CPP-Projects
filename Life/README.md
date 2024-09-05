@@ -8,7 +8,7 @@ Features:
 - Robust input validation to ensure only valid board positions seperated by commas is accepted
 - Timing delays between generations to better visualize generational changes
 
-Running the Project
+Running the Project:
 1. Download the project files from GitHub
 2. Navigate to the project directory
 3. Compile using desired C++ compiler such as g++
