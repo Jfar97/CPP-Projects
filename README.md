@@ -13,5 +13,3 @@ A collection of C++ projects demonstrating various fundamental programming conce
 5. Life: Conway's Game of Life simulation, showcasing 2D vector manipulation and cellular automata principles.
 
 6. Battleship: A console-based Battleship game featuring AI opponent and complex game state management.
-
-These projects represent my journey in learning C++, exploring various programming concepts and applying them to create functional applications.
