@@ -14,4 +14,4 @@ A collection of C++ projects demonstrating various fundamental programming conce
 
 6. Battleship: A console-based Battleship game featuring AI opponent and complex game state management.
 
-These projects collectively demonstrate proficiency in data structures, algorithms, object-oriented programming, file handling, and game logic implementation in C++.
+These projects represent my journey in learning C++, exploring various programming concepts and applying them to create functional applications.
